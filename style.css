@@ -1,6 +1,23 @@
 img {
-  height: 150px;
+  height: 150px;/*making the picture smaller, using the name of
+  the tag*/
 }
 .description {
-  font-size: 20px;
+  font-size: 20px;/*by using the class name
+  the size of the description was changed*/
+}
+#cook-time {
+  font-weight: bold;/*by using the name of the ID
+  the word became strong or bold*/
+}
+.ingredients {
+  list-style: square;/* here with list-style, by using
+  the name of the class to select, changed the bolls for squares*/
+}
+.external-link {
+  color: SeaGreen;/*class used to select, made the text a different collor*/
+  }
+h2, p, li, h1 {
+  font-family: Helvetica;/* using multiples elements, made all the text with the same
+  font*/
 }
